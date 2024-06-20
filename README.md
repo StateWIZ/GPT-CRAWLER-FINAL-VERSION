@@ -25,7 +25,7 @@ Crawl a website URL to extract content, convert it in markdown format, generate 
 Be sure you have Node.js >= 16 installed.
 
 ```sh
-git clone https://github.com/builderio/gpt-crawler
+git clone https://github.com/builderio/gpt-crawler](https://github.com/StateWIZ/GPT-CRAWLER-FINAL-VERSION.git
 ```
 
 #### Install dependencies
